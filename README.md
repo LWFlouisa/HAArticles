@@ -1,2 +1,1 @@
-# HAArticles
-Articles for Hafestran Rose Magazine. A different kind of apocalypse.
+Readme to come soon.
